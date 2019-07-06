@@ -1,2 +1,2 @@
-# mini_cnc_plotter
-A repository for describing the process of building a mini CNC plotter and storing the code.
+# Mini CNC Plotter
+A tiny CNC plotter built out of cardboard, popsicle sticks, hot glue, and stepper motors taken from DVD drives.
